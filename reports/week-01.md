@@ -42,13 +42,6 @@
 - Used `cherry-pick` to move a commit from one branch to another
 - Documented my progress with this weekly report
 
-## 🔁 Next Week Goals
-
-- Start building my personal website using HTML and CSS
-- Structure the website with separate files for header, body, and footer
-- Push the site to GitHub Pages as a portfolio project
-- Continue practicing advanced Git workflows with teammates
-
 ## 📎 Resources I Used
 
 - [Git official docs](https://git-scm.com/docs)
